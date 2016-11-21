@@ -1,6 +1,6 @@
-var buzzwords = [{buzzword: "AI", translation: "Computer Overlords"}, 
-{buzzword: "intelligence", translation: "dumbness"}, 
-{buzzword: "machine", translation: "raptor"}]
+var buzzwords = [ { buzzword: "AI", translation: "Computer Overlords" }, 
+{ buzzword: "intelligence", translation: "Dumbness" }, 
+{ buzzword: "Artificial", translation: "Raptor" } ]
 
 for (var i = 0; i < buzzwords.length; i++) {
     console.log(buzzwords[i].buzzword);
