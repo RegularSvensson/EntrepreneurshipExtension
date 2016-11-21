@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
-    "name": "Entrepreneurship Extension",
-    "description": "Pure awesomeness",
+    "name": "Unichrome",
+    "description": "Unichrome is the unichromiest extension on the web - translating startup buzzwords to real shit",
     "version": "1.0",
     "icons": {"128": "icon128.png" },
     "content_scripts": [
